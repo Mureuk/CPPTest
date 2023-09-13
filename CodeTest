@@ -3,5 +3,7 @@
 int main()
 {
     int a = 10;
+    int b = 3;
+    std::cout << "수정본" << std::endl;
     return 0;
 }
